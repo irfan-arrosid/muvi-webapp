@@ -1,9 +1,9 @@
 import React from 'react'
 
-function HeaderItem({ name, icon }) {
+function HeaderItem({ name, Icon }) {
   return (
     <div className='text-white flex items-center gap-3 text-[15px] font-semibold cursor-pointer hover:underline underline-offset-8'>
-        <icon />
+        <Icon className='mb-1' />
         <h2>{name}</h2>
     </div>
   )
