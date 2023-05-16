@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from './../assets/images/disney-hotstar-logo-dark.svg';
+import logo from './../assets/images/logo.png';
 import { HiPlus, HiDotsVertical } from "react-icons/hi";
 import { HiHome, HiMagnifyingGlass, HiStar, HiPlayCircle, HiTv } from "react-icons/hi2";
 import HeaderItem from './HeaderItem';
