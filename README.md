@@ -1,3 +1,3 @@
 # muvi-webapp
 
-Movie Streaming Website (Disney Clone) builds using ReactJS, GoLang, and MongoDB
+Movie Streaming Website (Disney Clone) built with ReactJS and Tailwind CSS.
